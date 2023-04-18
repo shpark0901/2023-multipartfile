@@ -1,0 +1,15 @@
+
+a
+java:S2259%"FA "NullPointerException" could be thrown; "fileName" is nullable here.(–ëáŸøÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çéð†øÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Çéð†øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(çðËüúÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(Âª¿Ò
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ë„¥¾
+Q	java:S125O"<This block of commented-out lines of code should be removed.(ÿÀúŽ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(æçÜð
+F
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ
+L
+java:S1144#"1Remove this unused private "getExtension" method.(…Þ™àýÿÿÿÿ

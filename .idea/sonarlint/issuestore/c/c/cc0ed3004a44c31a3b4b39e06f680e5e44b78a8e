@@ -1,0 +1,17 @@
+
+|
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "container".(·Æ¨ÿýÿÿÿÿ
+C
+java:S5411A"(Use a primitive boolean expression here.(‹±¯èüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(àìðÏ
+V	java:S125#"<This block of commented-out lines of code should be removed.(´¨Ùúúÿÿÿÿ
+V	java:S125/"<This block of commented-out lines of code should be removed.(º´Ý©ýÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ÉÜ¼¬
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(‡Ç»Ú
+S	java:S106="9Replace this use of System.out or System.err by a logger.(öÔÿÞÿÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(Ï‡ÆŒûÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ÝÈãçÿÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(«ÜÔúÿÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(·Ó–âúÿÿÿÿ
+Xsecrets:S6338":Make sure this Azure Storage Account Key is not disclosed.(ƒ™óÿøÿÿÿÿ
+Ssecrets:S6338":Make sure this Azure Storage Account Key is not disclosed.(àìðÏ
